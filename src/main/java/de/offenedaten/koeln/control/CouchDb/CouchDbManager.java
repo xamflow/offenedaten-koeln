@@ -57,7 +57,7 @@ public class CouchDbManager {
     //Konstanten
     private final static int PORT = 5984;
     public final static String SERVER_URL = "http://h2505042.stratoserver.net",
-            PW = "1omFg1!2",
+            PW = "xxxxx",
             PARK_AND_RIDE = "parkandride",
             UMWELTZONE = "umweltzone",
             DATA_CATALOGUE = "datacatalogue",
