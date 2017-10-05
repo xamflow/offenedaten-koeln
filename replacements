@@ -1,0 +1,10 @@
+GeoKoordinateNord:y
+GeoKoordinateOst:x
+XCOORD:x
+YCOORD:y
+esriFieldTypeString:text
+esriFieldTypeDouble:decimal
+esriFieldTypeOID:int
+esriFieldTypeInteger:int
+esriFieldTypeSmallInteger:int
+esriFieldTypeDate:timestamp
